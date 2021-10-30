@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingdavidmx
+- 👋 Hi, I’m @dpidgeon
 - 👀 I’m interested in learning to code and gain confidence in my abilities.
 - 🌱 I’m currently learning python3, Go, and soon C++ for funsies.
 - 💞️ I’m looking to collaborate on nothing at the moment!
